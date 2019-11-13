@@ -10,6 +10,10 @@
           <option name="url" value="https://kiewitcorp.visualstudio.com/DefaultCollection/SharePoint/_git/DataBrick_WebApp" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="dalorna" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repo" />
